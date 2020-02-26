@@ -1,0 +1,9 @@
+servidor web 
+https://www.uwamp.com/en/
+
+bootstrap 4
+https://getbootstrap.com/docs/4.4/getting-started/download/
+
+
+visual studio code
+https://code.visualstudio.com/
